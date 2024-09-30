@@ -9,6 +9,7 @@ Gitflow é um modelo de ramificação do Git que utiliza ramificações de recur
 
 ## Branchs develop and main
 1. **Ao usar a biblioteca de extensão git-flow**: a execução em um repositório existente criará a ramificação: `develop`.
+
 	```bash
 	git flow init develop
 2. Logo em seguida execute
