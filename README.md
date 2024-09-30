@@ -103,7 +103,7 @@ git merge release/0.1.0
 ```
 #### Usando as extensões git-flow:
 ```bash
-fgit flow release finish '0.1.0'
+git flow release finish '0.1.0'
 ```
 
 ## Gerenciando Hotfix branches
